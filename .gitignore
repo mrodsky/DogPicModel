@@ -1,0 +1,8 @@
+
+.vscode/
+test_images/
+dog_dataset/**/*.*
+dog_env/Lib/
+dog_env/Scripts/
+.DS_Store
+*.keras
